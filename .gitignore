@@ -167,3 +167,9 @@ src/dependencies/
 *__pycache__*
 *.ipynb*
 notebooks/*
+
+#my add 2023.12.6
+#ignore logs
+logs/*
+#ignore checkpoints
+checkpoints/*
